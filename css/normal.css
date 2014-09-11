@@ -1,0 +1,27 @@
+body, body a{
+	font-family: "Varela Round", sans-serif;
+	font-size: 13px;
+}
+
+#cart{
+	position: absolute;
+	padding:0px;
+	width: 180px;
+	top: 1px;
+	right:200px ;
+	border:0px solid #ccc;
+	cursor: pointer;
+}
+
+#cart form{
+	display: none;
+	border:1px solid #ccc;
+}
+#name,#description{
+
+	border-bottom:0px solid #ccc;
+}
+#price:before{
+
+content:'$';
+}
