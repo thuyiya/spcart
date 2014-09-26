@@ -40,7 +40,7 @@ $query = "SELECT * FROM products";
     </div>
   </div>
   <div class="footer">
-    <p>© Pei-Han Chao 2014</p>
+    <p>© 2014 Pei-Han Chao </p>
   </div>
 </div>
 <!-- /container --> 

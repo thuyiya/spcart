@@ -105,7 +105,7 @@ if(isset($_POST['update'])){
 			echo "</tr>";
 
 			echo "<tr>";
-			echo "<td colspan=\"3\" ><a href=\"?action=empty\" onclick=\"return confirm('Are you sure?');\">Empty Cart</a></td>";
+			echo "<td colspan=\"3\" ><a href=\"?action=empty\">Empty Cart</a></td>";
 			echo "</tr>";		
 		echo "</table>";
 		
